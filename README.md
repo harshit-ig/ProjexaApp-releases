@@ -39,11 +39,13 @@ Head to the [**Releases**](../../releases) page and download the latest `.apk` f
 - **E-Resources** — Access shared learning materials
 - **Profile** — Manage your profile and academic information
 
-### For Mentors
+### For Mentors *(Coming Soon)*
 - **Dashboard** — Overview of assigned teams and upcoming interactions
 - **Teams** — Monitor all assigned teams and their progress
 - **Interactions** — Manage interaction schedules and records
 - **Announcements** — View announcements
+
+> Mentor features are currently in development and will be available in a future release.
 
 ### General
 - **Push Notifications** — Per-category notification controls (messages, tasks, announcements, documents, evaluations, interactions)
